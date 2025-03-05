@@ -2,7 +2,7 @@
 
 The `/content` directory is where all the site's (English) Markdown content lives!
 
-See the [markup reference guide](https://docs.github.com/en/contributing/syntax-and-versioning-for-github-docs/using-markdown-and-liquid-in-github-docs) for more information about supported Markdown features.
+See the [markup reference guide](https://docs.github.com/en/contributing/syntax-and-versioning-for-gitสhub-docs/using-markdown-and-liquid-in-github-docs) for more information about supported Markdown features.
 
 See the [contributing docs](https://docs.github.com/en/contributing) for general information about working with the docs.
 
